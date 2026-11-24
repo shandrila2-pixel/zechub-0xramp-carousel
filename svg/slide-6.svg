@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="8%" r="60%">
+      <stop offset="0%" stop-color="#E9B949" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#E9B949" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7D989"/><stop offset="100%" stop-color="#E9B949"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A1A22"/><stop offset="100%" stop-color="#101016"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#0A0A0E"/>
+  <rect width="1080" height="1350" fill="url(#glow)"/>
+  
+    <text x="96" y="108" text-anchor="start" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="-0.5">
+    <tspan fill="#E9B949">0x</tspan><tspan fill="#FFFFFF">ramp</tspan></text>
+    <text x="984" y="106" text-anchor="end" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="4" fill="#6B7280">0XRAMP · FUNCIONES</text>
+    <rect x="96" y="300" width="136" height="136" rx="36" fill="url(#cardGrad)" stroke="rgba(233,185,73,0.30)" stroke-width="1.5"/>
+    <g transform="translate(132,336) scale(2.6666666666666665)" fill="none" stroke="#E9B949" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="7" r="1.7" fill="#E9B949" stroke="none"/><circle cx="12" cy="7" r="1.7" fill="#E9B949" stroke="none"/><circle cx="18" cy="7" r="1.7" fill="#E9B949" stroke="none"/><circle cx="6" cy="12" r="1.7" fill="#E9B949" stroke="none"/><circle cx="12" cy="12" r="1.7" fill="#E9B949" stroke="none"/><circle cx="18" cy="12" r="1.7" fill="#E9B949" stroke="none"/><circle cx="6" cy="17" r="1.7" fill="#E9B949" stroke="none"/><circle cx="12" cy="17" r="1.7" fill="#E9B949" stroke="none"/><circle cx="18" cy="17" r="1.7" fill="#E9B949" stroke="none"/></g>
+    <text x="96" y="540" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5" fill="#E9B949">06 — MÁS</text>
+    <text x="96" y="660" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="74" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">Mucho más que</text>
+    <text x="96" y="746" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="74" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">comprar y vender</text>
+    <circle cx="104" cy="849" r="6" fill="#E9B949"/><text x="132" y="860" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="32" fill="#D4D4D8">Tarjetas de regalo, recargas y eSIM.</text>
+    <circle cx="104" cy="925" r="6" fill="#E9B949"/><text x="132" y="936" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="32" fill="#D4D4D8">Paga con ZEC o NEAR.</text>
+    <circle cx="104" cy="1001" r="6" fill="#E9B949"/><text x="132" y="1012" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="32" fill="#D4D4D8">Soporte y ajustes de cuenta.</text>
+    <rect x="96" y="1084" width="888" height="112" rx="28" fill="url(#goldGrad)"/>
+    <text x="540" y="1156" text-anchor="middle" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="40" font-weight="800" fill="#0A0A0E">Empieza en 0xramp.app</text>
+    <line x1="96" y1="1180" x2="984" y2="1180" stroke="none"/>
+    <circle cx="101" cy="1251" r="5" fill="rgba(255,255,255,0.18)"/><circle cx="123" cy="1251" r="5" fill="rgba(255,255,255,0.18)"/><circle cx="145" cy="1251" r="5" fill="rgba(255,255,255,0.18)"/><circle cx="167" cy="1251" r="5" fill="rgba(255,255,255,0.18)"/><circle cx="189" cy="1251" r="5" fill="rgba(255,255,255,0.18)"/><rect x="206" y="1246" width="46" height="10" rx="5" fill="#E9B949"/>
+  
+</svg>

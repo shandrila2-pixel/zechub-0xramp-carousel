@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="8%" r="60%">
+      <stop offset="0%" stop-color="#E9B949" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#E9B949" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7D989"/><stop offset="100%" stop-color="#E9B949"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A1A22"/><stop offset="100%" stop-color="#101016"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#0A0A0E"/>
+  <rect width="1080" height="1350" fill="url(#glow)"/>
+  
+      <text x="96" y="108" text-anchor="start" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="-0.5">
+    <tspan fill="#E9B949">0x</tspan><tspan fill="#FFFFFF">ramp</tspan></text>
+      <text x="984" y="106" text-anchor="end" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="4" fill="#6B7280">0XRAMP · FUNCIONES</text>
+      <rect x="96" y="300" width="136" height="136" rx="36" fill="url(#cardGrad)" stroke="rgba(233,185,73,0.30)" stroke-width="1.5"/>
+      <g transform="translate(132,336) scale(2.6666666666666665)" fill="none" stroke="#E9B949" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v11"/><path d="M7.5 10.5 12 15l4.5-4.5"/><path d="M4 20h16"/></g>
+      <text x="96" y="540" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5" fill="#E9B949">03 — COMPRAR / VENDER</text>
+      <text x="96" y="660" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="74" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">Compra y vende con</text><text x="96" y="746" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="74" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">tu moneda local</text>
+      <circle cx="104" cy="889" r="6" fill="#E9B949"/><text x="132" y="900" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="32" fill="#D4D4D8">Entra y sal de cripto con métodos</text><text x="132" y="944" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="32" fill="#D4D4D8">de pago locales (PIX, SPEI y más).</text><circle cx="104" cy="1009" r="6" fill="#E9B949"/><text x="132" y="1020" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="32" fill="#D4D4D8">Recibe el dinero directo en tu</text><text x="132" y="1064" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="32" fill="#D4D4D8">banco o billetera.</text><circle cx="104" cy="1129" r="6" fill="#E9B949"/><text x="132" y="1140" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="32" fill="#D4D4D8">Sin custodia: tus llaves, tus fondos.</text>
+      <line x1="96" y1="1180" x2="984" y2="1180" stroke="rgba(255,255,255,0.10)" stroke-width="1"/>
+      <circle cx="101" cy="1251" r="5" fill="rgba(255,255,255,0.18)"/><circle cx="123" cy="1251" r="5" fill="rgba(255,255,255,0.18)"/><rect x="140" y="1246" width="46" height="10" rx="5" fill="#E9B949"/><circle cx="203" cy="1251" r="5" fill="rgba(255,255,255,0.18)"/><circle cx="225" cy="1251" r="5" fill="rgba(255,255,255,0.18)"/><circle cx="247" cy="1251" r="5" fill="rgba(255,255,255,0.18)"/>
+      <text x="984" y="1256" text-anchor="end" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="700" fill="#6B7280">0xramp.app</text>
+    
+</svg>

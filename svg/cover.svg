@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="8%" r="60%">
+      <stop offset="0%" stop-color="#E9B949" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#E9B949" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7D989"/><stop offset="100%" stop-color="#E9B949"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A1A22"/><stop offset="100%" stop-color="#101016"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#0A0A0E"/>
+  <rect width="1080" height="1350" fill="url(#glow)"/>
+  
+    <circle cx="540" cy="392" r="86" fill="none" stroke="url(#goldGrad)" stroke-width="2" opacity="0.55"/>
+    <circle cx="540" cy="392" r="70" fill="url(#cardGrad)" stroke="rgba(233,185,73,0.35)" stroke-width="1.5"/>
+    <g transform="translate(496,348) scale(3.6666666666666665)" fill="none" stroke="#E9B949" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M9 9.5h6M9 14.5h6M12 8.5v7"/></g>
+    <text x="540" y="578" text-anchor="middle" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="7" fill="#E9B949">GUÍA RÁPIDA</text>
+    <text x="540" y="700" text-anchor="middle" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="74" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">Conoce las funciones</text>
+    <text x="540" y="786" text-anchor="middle" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="74" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">principales de <tspan fill="url(#goldGrad)">0xramp</tspan></text>
+    <text x="540" y="892" text-anchor="middle" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="32" fill="#9CA3AF">Compra, vende, paga e intercambia cripto</text>
+    <text x="540" y="940" text-anchor="middle" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="32" fill="#9CA3AF">con tu moneda local. Sin custodia.</text>
+    <line x1="96" y1="1150" x2="984" y2="1150" stroke="rgba(255,255,255,0.10)" stroke-width="1"/>
+    <text x="96" y="1220" text-anchor="start" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-0.5">
+    <tspan fill="#E9B949">0x</tspan><tspan fill="#FFFFFF">ramp</tspan></text>
+    <text x="984" y="1218" text-anchor="end" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" font-size="26" fill="#6B7280">Desliza para explorar →</text>
+  
+</svg>
